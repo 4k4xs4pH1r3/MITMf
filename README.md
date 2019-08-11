@@ -25,7 +25,7 @@ Contact me at:
 Installation
 ============
 
-Please refer to the wiki for [installation instructions](https://github.com/4k4xs4pH1r3/FruityWifi/wiki)
+Please refer to the wiki for [installation instructions](https://github.com/4k4xs4pH1r3/FruityWifi/wiki/Installation.md)
 
 Description
 ============
